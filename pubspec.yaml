@@ -14,7 +14,9 @@ dependencies:
   flutter_map:
     git:
       url: https://github.com/pauloricardomsop/flutter_map
-  flutter_map_marker_popup: ^4.0.0
+  flutter_map_marker_popup:
+    git:
+      url: https://github.com/pauloricardomsop/flutter_map_marker_popup
   latlong2: ^0.8.1
 
 dev_dependencies:
